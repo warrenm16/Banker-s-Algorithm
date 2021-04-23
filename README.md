@@ -20,3 +20,4 @@ Only safe requests should be approved.
 Once the request is approved, the state of the system (Allocated, Need matrices and Available vector) should be updated.
 You can either have the customer make requests until they reach their maximum needed, then release all resources and exit.
 Here is an example of the output from your program.
+[bankers_algorithm rubric.pdf](https://github.com/warrenm16/Banker-s-Algorithm/files/6363159/bankers_algorithm.rubric.pdf)
